@@ -1,0 +1,12 @@
+{
+  "$schema": "./schemas/app-config.schema.json",
+  "name": "Way Back",
+  "nameJa": "Way Back",
+  "slug": "way-back",
+  "version": "1.0.0",
+  "description": "A privacy-friendly smartphone tool that saves places locally and guides you back with distance and direction.",
+  "descriptionJa": "現在地を端末内に保存し、距離と方角だけで戻れるプライバシー重視のスマホ向けブラウザーアプリです。",
+  "defaultLanguage": "auto",
+  "repository": {"owner": "ttomohisa", "name": "htmlapps-way-back"},
+  "build": {"output": "dist/index.html", "blockRuntimeNetwork": true, "selfExtract": {"enabled": true, "output": "dist/index.self-extract.html"}}
+}
