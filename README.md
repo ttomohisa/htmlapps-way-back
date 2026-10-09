@@ -10,6 +10,8 @@ Way Back is a privacy-friendly, single-HTML smartphone tool for saving a place a
 
 ![Application screenshot in English](assets/screenshot-en.png)
 
+Captured from the public demo (v1.0.0) in a browser with location access disabled. This shows the environment’s permission state; GPS and compass operation are not demonstrated.
+
 ## 🚀 Live demo
 
 ### [Open Way Back on GitHub Pages](https://ttomohisa.github.io/htmlapps-way-back/)
