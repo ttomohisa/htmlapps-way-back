@@ -2,6 +2,11 @@
 
 All notable changes to Way Back are documented here.
 
+## [1.0.1] - 2026-10-09
+
+- Add the canonical favicon using the existing embedded icon without changing its design.
+- Add Japanese and English screenshots for the app catalog and documentation.
+
 ## [1.0.0] - 2026-08-16
 
 ### Added

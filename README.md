@@ -8,6 +8,8 @@
 
 Way Back is a privacy-friendly, single-HTML smartphone tool for saving a place and finding your way back with a large arrow and straight-line distance — no map and no account required.
 
+![Application screenshot in English](assets/screenshot-en.png)
+
 ## 🚀 Live demo
 
 ### [Open Way Back on GitHub Pages](https://ttomohisa.github.io/htmlapps-way-back/)
