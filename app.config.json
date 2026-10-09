@@ -3,7 +3,7 @@
   "name": "Way Back",
   "nameJa": "Way Back",
   "slug": "way-back",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A privacy-friendly smartphone tool that saves places locally and guides you back with distance and direction.",
   "descriptionJa": "現在地を端末内に保存し、距離と方角だけで戻れるプライバシー重視のスマホ向けブラウザーアプリです。",
   "defaultLanguage": "auto",

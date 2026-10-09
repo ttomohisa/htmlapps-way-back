@@ -1,7 +1,7 @@
 {
-    "name":  "Way Back",
-    "version":  "1.0.0",
-    "generatedAt":  "2026-08-16T07:09:35.9229132+00:00",
-    "dependencyCount":  0,
-    "source":  "src/index.template.html"
+  "name": "Way Back",
+  "version": "1.0.1",
+  "generatedAt": "2026-10-09T06:24:29.1345463+00:00",
+  "dependencyCount": 0,
+  "source": "src/index.template.html"
 }

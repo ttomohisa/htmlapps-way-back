@@ -8,6 +8,10 @@
 
 Way Back は、現在地を保存して、地図を開かず **大きな矢印と直線距離だけで戻る**ためのスマホ向け単一HTMLアプリです。アカウントやインストールは不要です。
 
+![アプリ画面](assets/screenshot.png)
+
+公開デモ（v1.0.0）を、位置情報へのアクセスが無効なブラウザーで撮影しています。表示は撮影環境の権限状態によるもので、GPS・コンパスの動作を示すものではありません。
+
 ## 🚀 デモ
 
 ### [GitHub PagesでWay Backを開く](https://ttomohisa.github.io/htmlapps-way-back/)
